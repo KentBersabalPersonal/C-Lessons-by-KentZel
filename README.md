@@ -1,6 +1,6 @@
 # C Lessons by KentZel
 
-Hey! This repository is where I'm documenting my journey learning C — one concept at a time. Each file focuses on a single topic, with simple, easy-to-follow code so I (and anyone else learning) can look back and understand exactly what's going on.
+Hello po! This repository is where I'm documenting my journey learning C — one concept at a time. Each file focuses on a single topic, with simple, easy-to-follow code so I (and anyone else learning) can look back and understand exactly what's going on.
 
 If you're also just starting out with C, feel free to browse around, learn alongside me, or fork this repo for your own practice!
 
@@ -40,6 +40,16 @@ If you're also just starting out with C, feel free to browse around, learn along
 - `19-Calloc.c` – Like malloc, but automatically sets everything to 0
 - `20-Realloc.c` – Resizing memory you already allocated
 - `21-Free-and-Memory-Leaks.c` – Giving memory back, and avoiding common bugs
+
+## 🛠 Practice Projects
+
+Once I learn something new, I like to build small projects to make sure it actually sticks — these are projects I made randomly for you to understand it better:
+
+- **Ex-Banking-System.c** — A simple banking system to practice structs, functions, and logic together
+- **Ex-Calculator.c** — A calculator to practice operators and conditionals
+- **Ex-Menu-Terminal-Kiosk.c** — A terminal-based menu/kiosk system to practice switch statements and loops
+- **Ex-Quiz-Game.c** — A simple quiz game to practice conditionals and scoring logic
+- **Ex-User-Register-System.c** — A basic user registration system to practice structs and input handling
 
 ## ▶️ How to Run These Files
 
