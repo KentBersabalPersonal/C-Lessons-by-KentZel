@@ -24,14 +24,22 @@ If you're also just starting out with C, feel free to browse around, learn along
 
 ### 🧩 Data Structures
 - `11-Arrays.c` – Storing multiple values in one place
+- `17-2D-Arrays.c` – Grids and tables of data
 
 ### ⚙️ Functions
 - `12-Functions-Prototype.c` – Reusable blocks of code, declared before they're defined
 - `13-Void-Functions.c` – Functions that perform an action but return nothing
 
-### 🏗️ Structs & Pointers
+### 🏗️ Structs, Pointers & Typedef
 - `14-Structs.c` – Grouping related data together
 - `15-Pointers.c` – Understanding memory addresses (the scary but important stuff!)
+- `16-Typedef.c` – Giving types (and structs) a shorter, cleaner name
+
+### 🧠 Dynamic Memory
+- `18-Malloc.c` – Reserving memory while the program runs
+- `19-Calloc.c` – Like malloc, but automatically sets everything to 0
+- `20-Realloc.c` – Resizing memory you already allocated
+- `21-Free-and-Memory-Leaks.c` – Giving memory back, and avoiding common bugs
 
 ## ▶️ How to Run These Files
 
@@ -41,7 +49,7 @@ Use VS Code for a beginner-friendly compiler :3
 
 ## 📈 What's Next
 
-I'm still learning! Coming up: more practice projects, and maybe some data structures like linked lists.
+I'm still learning! Coming up: file handling, string functions, command-line arguments, and maybe some data structures like linked lists.
 
 Thanks for stopping by — enjoy coding!
 
