@@ -63,4 +63,4 @@ I'm still learning! Coming up: file handling, string functions, command-line arg
 
 Thanks for stopping by — enjoy coding!
 
-**Kent Loves you <3**
+# Kent Loves you <3
